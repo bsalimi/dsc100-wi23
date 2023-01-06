@@ -31,8 +31,9 @@ Tuesdays and Thursdays at 6:30pm-7:50pm
 
 **Office Hours:**
 
+Babak Salimi, Wedensdays 4:00pm-5:00pm
 
-**Note:** Office hours will be held via Zoom. 
+**Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
 
 
@@ -53,9 +54,9 @@ Tuesdays and Thursdays at 6:30pm-7:50pm
 - Homework 1: SQLITE and SQL Basics
 - Homework 2: Basic SQL Queries
 - Homework 3: Advanced SQL and PostgreSQL
-- Homework 4: Advanced SQL and PostgreSQL
-- Homework 5: Relational Algebra
-- Homework 6: Entity Relationship Diagrams, Conceptual Design
+- Homework 4: Relational Algebra
+- Homework 5: Entity Relationship Diagrams, Conceptual Design
+- Homework 6: Constraints and SQL Review
 - Web Quiz 1: Data Models and Basic SQL
 - Web Quiz 2: SQL Aggregates
 - Web Quiz 3: Advanced SQL
