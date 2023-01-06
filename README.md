@@ -71,7 +71,7 @@ Babak Salimi, Wedensdays 4:00pm-5:00pm
 
 **Exam Dates:**
 
-- Midterm Exam: 02/14/2023
+- Midterm Exam: 02/16/2023
 - Final Exam: 03/21/2023
 
 **Extra Credit:**
