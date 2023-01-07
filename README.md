@@ -1,6 +1,6 @@
 ![The_Data_Lifecycle](fig/The_Data_Lifecycle.jpeg)
 
-#   DSC 100: Introduction to Data Management
+#DSC 100: Introduction to Data Management
 
 
 
@@ -56,11 +56,12 @@ Babak Salimi, Wedensdays 4:00pm-5:00pm
 **Homework (60%):** There will be weekly homeworks consisting of written problem-solving and programming assignments (50%) and web quizzes (10%). The purpose of the homeworks is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures. Homeworks will be more rigorous than the web quizzes and will require students to demonstrate a deeper understanding of the material. The purpose of the web quizzes is to help students reinforce their understanding of the course material by answering review questions based on the previous lectures. The following is a list of the homeworks and web quizzes in the course:
 
 - Homework 1: SQLITE and SQL Basics
-- Homework 2: Basic SQL Queries and Installing PostgreSQL
-- Homework 3: Advanced SQL and PostgreSQL
-- Homework 4: Relational Algebra
-- Homework 5: Entity Relationship Diagrams, Conceptual Design
-- Homework 6: Constraints and SQL Review
+- Homework 2: Basic SQL Queries
+- Homework 3: Installing PostgreSQL
+- Homework 4: Advanced SQL and PostgreSQL
+- Homework 5: Relational Algebra
+- Homework 6: Entity Relationship Diagrams and Conceptual Design
+- Homework 7: Constraints and SQL Review
 - Web Quiz 1: Data Models and Basic SQL
 - Web Quiz 2: SQL Aggregates
 - Web Quiz 3: Advanced SQL
@@ -95,9 +96,9 @@ Babak Salimi, Wedensdays 4:00pm-5:00pm
 |------|--------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------|------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Jan 10       | Course organization and Introduction | This lecture will cover the organization and structure of the course, including the syllabus, grading policies, and course materials. We will also introduce the basic concepts of data management and the importance of databases in modern society. | | | | | This lecture will provide an overview of the course and help students understand the goals and objectives of the class. |
 |      | Jan 12       | Relational Data Model | This lecture will introduce the relational data model, including a demonstration of the SQLite database management system and an example relational database. We will also discuss the connection to the DataFrame data model and how it is used in data analysis. | Homework 1: SQLITE and SQL Basics| | | | The relational model is a fundamental concept in data management and is the basis for many popular database systems. Understanding the principles of the relational model is essential for data scientists. | 
-| 2    | Jan 17       | SQL Basics | This lecture will introduce the basic syntax and semantics of SQL, including the use of the SELECT, FROM, and WHERE clauses to retrieve data from a database. | Web Quiz 1: Data Models and Basic SQL | | | | SQL is a widely used language for interacting with relational databases, and having a strong understanding of SQL is important for data scientists. |
+| 2    | Jan 17       | SQL Basics | This lecture will introduce the basic syntax and semantics of SQL, including the use of the SELECT, FROM, and WHERE clauses to retrieve data from a database. | Homework 3: Installing PostgreSQL Web Quiz 1: Data Models and Basic SQL | | | | SQL is a widely used language for interacting with relational databases, and having a strong understanding of SQL is important for data scientists. |
 |      | Jan 19       | Joins in SQL Part 1 | This lecture will cover the various types of joins in SQL, including inner, outer, and cross joins. The use of join clauses to combine information from multiple tables will also be discussed. |  | | | | Joins are an important tool for combining data from multiple tables and are used in many complex queries. Understanding how to use joins effectively is essential for working with large datasets. |
-| 3    | Jan 24       | Joins in SQL Part 2 | This lecture will continue the discussion of joins in SQL, with a focus on practical examples and a demonstration using the SQLite database management system. | Homework 2: Basic SQL Queries and Installing PostgreSQL | | | | |
+| 3    | Jan 24       | Joins in SQL Part 2 | This lecture will continue the discussion of joins in SQL, with a focus on practical examples and a demonstration using the SQLite database management system. | Homework 2: Basic SQL Queries  | | | | |
 |      | Jan 26       | Grouping and Aggregation | This lecture will introduce the concepts of grouping and aggregation in SQL, and show how to write complex analytical queries using these techniques. We will also provide a demonstration of aggregate functions in SQL. | Web Quiz 2: SQL Aggregates| | | | Grouping and aggregation are powerful tools for analyzing and summarizing data, and are frequently used in data analysis and reporting. |
 | 4    | Jan 31       | Advanced SQL Queries Part 1 | This lecture will cover complex nested queries and the use of next queries in the WHERE, FROM, and SELECT clauses of an SQL statement. | Homework 3: Advanced SQL and PostgreSQL| | | | Writing complex queries is an essential skill for working with large and complex datasets, and understanding how to do so is crucial for data scientists. |
 |      | Feb 2        | Advanced SQL Queries Part 2 | This lecture will continue the discussion of advanced SQL queries, covering expression quantifiers in SQL, monotone versus non-monotone queries, and set operations in SQL. | Web Quiz 3: Advanced SQL| | | | |
