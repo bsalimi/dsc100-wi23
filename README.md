@@ -33,6 +33,9 @@ Megha Agarwal [meagarwal@ucsd.edu](mailto:meagarwal@ucsd.edu)
 Tuesdays and Thursdays at 6:30pm-7:50pm
 
 
+**Note:** The lectures for this course will be automatically recorded and made available for students to watch at their convenience. While attending the lectures in person is not required, it is highly recommended as it provides an opportunity to ask questions and interact with the instructor and other students. The recordings are meant to be a supplement to the in-person lectures and should not be used as a replacement for attendance
+
+
 **Office Hours:**
 
 Babak Salimi, Wedensdays 4:00pm-5:00pm
