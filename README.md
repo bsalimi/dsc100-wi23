@@ -1,6 +1,6 @@
 ![The_Data_Lifecycle](fig/The_Data_Lifecycle.jpeg)
 
-#DSC 100: Introduction to Data Management
+# DSC 100: Introduction to Data Management
 
 
 
@@ -37,6 +37,14 @@ Tuesdays and Thursdays at 6:30pm-7:50pm
 
 Babak Salimi, Wedensdays 4:00pm-5:00pm
 
+Baharan Khatami, TBD
+
+Divija Devarla, TBD
+
+Pragna Elavarthi,   TBD
+
+Megha Agarwal, TBD
+
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
 
@@ -69,6 +77,9 @@ Babak Salimi, Wedensdays 4:00pm-5:00pm
 - Web Quiz 5: Query Evaluation and Indexes
 - Web Quiz 6: Conceptual Design and Design Theory
 - Web Quiz 7: Data Quality
+
+
+**Note:** Homework assignments can be completed in teams of size 2. This means that you can work with one other student to complete the assignment and submit a single solution. It is expected that each member of the team will contribute equally to the solution and have a thorough understanding of the material. Collaboration is encouraged as it can help deepen understanding and facilitate learning, but it is important that all team members understand the work being submitted and are able to explain it if necessary. Plagiarism and cheating will not be tolerated and will result in disciplinary action.
 
 **Midterm (15%):** The midterm exam will cover all topics up until Formal Query Languages. It will be held on canvas.
 
