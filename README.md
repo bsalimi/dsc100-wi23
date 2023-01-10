@@ -44,7 +44,7 @@ Baharan Khatami, TBD
 
 Divija Devarla, Thursday 9AM - 10AM
 
-Pragna Elavarthi,   TBD
+Pragna Elavarthi,   Monday 10AM - 11AM
 
 Megha Agarwal, Tuesday 4 - 5 PM
 
