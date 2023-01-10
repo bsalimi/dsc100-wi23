@@ -42,7 +42,7 @@ Babak Salimi, Wedensdays 4:00pm-5:00pm
 
 Baharan Khatami, TBD
 
-Divija Devarla, TBD
+Divija Devarla, Thursday 9AM - 10AM
 
 Pragna Elavarthi,   TBD
 
