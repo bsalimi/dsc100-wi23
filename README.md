@@ -84,6 +84,9 @@ Megha Agarwal, TBD
 
 **Note:** Homework assignments can be completed in teams of size 2. This means that you can work with one other student to complete the assignment and submit a single solution. It is expected that each member of the team will contribute equally to the solution and have a thorough understanding of the material. Collaboration is encouraged as it can help deepen understanding and facilitate learning, but it is important that all team members understand the work being submitted and are able to explain it if necessary. Plagiarism and cheating will not be tolerated and will result in disciplinary action.
 
+**Late Day Policy:** You have up to 2 late days to use on homework assignments. These late days can be used in 24-hour chunks. You can only use one late day on each assignment. Late days are meant to be a safety net and should not be used as a convenience. It is expected that you will not need to use your late days and that you will submit all assignments on time. If you use all of your late days, it is likely that you are not managing your time effectively and will need to adjust your study habits. **Please note that no excuses for not submitting assignments on time will be accepted once you have exhausted your late days.**
+
+
 **Midterm (15%):** The midterm exam will cover all topics up until Formal Query Languages. It will be held on canvas.
 
 **Final Exam (25%):** The final exam will be comprehensive and will be held on canvas.
