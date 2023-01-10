@@ -46,7 +46,7 @@ Divija Devarla, Thursday 9AM - 10AM
 
 Pragna Elavarthi,   TBD
 
-Megha Agarwal, TBD
+Megha Agarwal, Tuesday 4 - 5 PM
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
