@@ -68,11 +68,11 @@ Megha Agarwal, TBD
 
 - Homework 1: SQLITE and SQL Basics
 - Homework 2: Basic SQL Queries
-- Homework 3: Installing PostgreSQL
-- Homework 4: Advanced SQL and PostgreSQL
-- Homework 5: Relational Algebra
-- Homework 6: Entity Relationship Diagrams and Conceptual Design
-- Homework 7: Constraints and SQL Review
+- Completion of Postgres Setup for Homework 3
+- Homework 3: Advanced SQL and PostgreSQL
+- Homework 4: Relational Algebra
+- Homework 5: Entity Relationship Diagrams and Conceptual Design
+- Homework 6: Constraints and SQL Review
 - Web Quiz 1: Data Models and Basic SQL
 - Web Quiz 2: SQL Aggregates
 - Web Quiz 3: Advanced SQL
@@ -113,11 +113,13 @@ Megha Agarwal, TBD
 |------|--------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------|------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Jan 10       | Course organization and Introduction | This lecture will cover the organization and structure of the course, including the syllabus, grading policies, and course materials. We will also introduce the basic concepts of data management and the importance of databases in modern society. | | | | Sec. 2.1 | This lecture will provide an overview of the course and help students understand the goals and objectives of the class. |
 |      | Jan 12       | Relational Data Model | This lecture will introduce the relational data model, including a demonstration of the SQLite database management system and an example relational database. We will also discuss the connection to the DataFrame data model and how it is used in data analysis. | Homework 1: SQLITE and SQL Basics| | | Sec. 2.2, 2.3 | The relational model is a fundamental concept in data management and is the basis for many popular database systems. Understanding the principles of the relational model is essential for data scientists. | 
-|      | Jan 16       |  NA|  | | | Introduction to SQL | | 
-| 2    | Jan 17       | SQL Basics | This lecture will introduce the basic syntax and semantics of SQL, including the use of the SELECT, FROM, and WHERE clauses to retrieve data from a database. | Homework 3: Installing PostgreSQL Web Quiz 1: Data Models and Basic SQL | | | | SQL is a widely used language for interacting with relational databases, and having a strong understanding of SQL is important for data scientists. |
+|      | Jan 16       |  Introduction to SQL|  | | | | | 
+| 2    | Jan 17       | SQL Basics | This lecture will introduce the basic syntax and semantics of SQL, including the use of the SELECT, FROM, and WHERE clauses to retrieve data from a database. | Completion of Postgres Setup for Homework 3 Web Quiz 1: Data Models and Basic SQL | | | | SQL is a widely used language for interacting with relational databases, and having a strong understanding of SQL is important for data scientists. |
 |      | Jan 19       | Joins in SQL Part 1 | This lecture will cover the various types of joins in SQL, including inner, outer, and cross joins. The use of join clauses to combine information from multiple tables will also be discussed. |  | | | | Joins are an important tool for combining data from multiple tables and are used in many complex queries. Understanding how to use joins effectively is essential for working with large datasets. |
+|      | Jan 23      |  SQL Basics and Joins|  | | | | | 
 | 3    | Jan 24       | Joins in SQL Part 2 | This lecture will continue the discussion of joins in SQL, with a focus on practical examples and a demonstration using the SQLite database management system. | Homework 2: Basic SQL Queries  | | | | |
 |      | Jan 26       | Grouping and Aggregation | This lecture will introduce the concepts of grouping and aggregation in SQL, and show how to write complex analytical queries using these techniques. We will also provide a demonstration of aggregate functions in SQL. | Web Quiz 2: SQL Aggregates| | | | Grouping and aggregation are powerful tools for analyzing and summarizing data, and are frequently used in data analysis and reporting. |
+|      | Jan 30     |  SQL Group and Aggregation |  | | | | | 
 | 4    | Jan 31       | Advanced SQL Queries Part 1 | This lecture will cover complex nested queries and the use of next queries in the WHERE, FROM, and SELECT clauses of an SQL statement. | Homework 3: Advanced SQL and PostgreSQL| | | | Writing complex queries is an essential skill for working with large and complex datasets, and understanding how to do so is crucial for data scientists. |
 |      | Feb 2        | Advanced SQL Queries Part 2 | This lecture will continue the discussion of advanced SQL queries, covering expression quantifiers in SQL, monotone versus non-monotone queries, and set operations in SQL. | Web Quiz 3: Advanced SQL| | | | |
 | 5    | Feb 7        | Formal Relational Query Languages | This lecture will introduce the basics of relational algebra, extended relational algebra, and their connection to data frames and SQL.  |Web Quiz 4: Relational Algebra Homework 4: Relational Algebra | | | | Understanding Formal Relational languages, such as relational algebra, is crucial for understanding how relational database systems operate. |
