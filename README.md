@@ -91,6 +91,8 @@ Megha Agarwal, Tuesday 4 - 5 PM
 
 **Final Exam (25%):** The final exam will be comprehensive and will be held on canvas.
 
+Both Midterm and Final exam will be held remote.
+
 **Exam Dates:**
 
 - Midterm Exam: 02/16/2023
