@@ -44,7 +44,7 @@ Baharan Khatami, TBD
 
 Divija Devarla, Thursday 9AM - 10AM
 
-Pragna Elavarthi,   TBD
+Pragna Elavarthi,   Monday 10AM - 11AM
 
 Megha Agarwal, Tuesday 4 - 5 PM
 
@@ -90,6 +90,8 @@ Megha Agarwal, Tuesday 4 - 5 PM
 **Midterm (15%):** The midterm exam will cover all topics up until Formal Query Languages. It will be held on canvas.
 
 **Final Exam (25%):** The final exam will be comprehensive and will be held on canvas.
+
+Both Midterm and Final exam will be held remote.
 
 **Exam Dates:**
 
@@ -140,6 +142,8 @@ Megha Agarwal, Tuesday 4 - 5 PM
 |      | Mar 13    |   |  | | |Normal Forms | | 
 | 10   | Mar 14       | Data Quality Part 1 | This lecture will introduce the concept of data quality and its common dimensions, then it will focus on simple tricks to deal with missing data in SQL.  | | | | | Data quality is an important concern in database management, and understanding how to identify and address issues of poor quality is essential for ensuring the accuracy and reliability of a database. |
 |      | Mar 16        | Data Quality Part 2 | This lecture will focus on entity deduplication, which is the process of identifying and merging records that refer to the same real-world entity. We will discuss different approaches to entity matching and the trade-offs involved. | Web Quiz 7: Data Quality| | | |  Entity deduplication is a crucial step in ensuring the accuracy and completeness of data within a database. It involves identifying and merging duplicate records, which can help to improve the integrity and reliability of the database as a whole.
+|      | Mar 21       | Final Exam |  | | | | |  |
+
 
 
 
