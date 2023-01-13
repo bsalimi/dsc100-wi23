@@ -38,15 +38,15 @@ Tuesdays and Thursdays at 6:30pm-7:50pm
 
 **Office Hours:**
 
-Babak Salimi, Wedensdays 4:00pm-5:00pm
+Babak Salimi, Wedensdays 4PM - 5PM
 
-Baharan Khatami, TBD
+Baharan Khatami, Fridays 2PM - 3PM
 
-Divija Devarla, Thursday 9AM - 10AM
+Divija Devarla, Thursdays 9AM - 10AM
 
-Pragna Elavarthi,   Monday 10AM - 11AM
+Pragna Elavarthi,   Mondays 10AM - 11AM
 
-Megha Agarwal, Tuesday 4 - 5 PM
+Megha Agarwal, Tuesdays 4PM - 5 PM
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
