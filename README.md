@@ -40,7 +40,7 @@ Tuesdays and Thursdays at 6:30pm-7:50pm
 
 Babak Salimi, Wedensdays 4PM - 5PM
 
-Baharan Khatami, Fridays 2PM - 3PM
+Baharan Khatami, Fridays 3PM - 4PM
 
 Divija Devarla, Thursdays 9AM - 10AM
 
